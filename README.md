@@ -1,2 +1,2 @@
 # session-insight
-Tutoring diagnostic website - Track Students and performance to stay orginized
+**Tutoring Diagnostic Website** - Track Students and performance to stay orginized
